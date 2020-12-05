@@ -1,0 +1,21 @@
+body {
+    background-color: #393E46;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: #4ECCA3
+}
+
+.title {
+    margin-top: 40px;
+    margin-bottom: 0;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    font-size : 2rem;
+    font-family: 'Indie Flower', cursive;
+    margin: 1% 2%; 
+}
